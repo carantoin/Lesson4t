@@ -1,0 +1,14 @@
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\bin\Debug\net8.0\Lesson4t.exe
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\bin\Debug\net8.0\Lesson4t.deps.json
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\bin\Debug\net8.0\Lesson4t.runtimeconfig.json
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\bin\Debug\net8.0\Lesson4t.dll
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\bin\Debug\net8.0\Lesson4t.pdb
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\Lesson4t.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\Lesson4t.AssemblyInfoInputs.cache
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\Lesson4t.AssemblyInfo.cs
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\Lesson4t.csproj.CoreCompileInputs.cache
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\Lesson4t.dll
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\refint\Lesson4t.dll
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\Lesson4t.pdb
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\Lesson4t.genruntimeconfig.cache
+C:\Users\uZer\RiderProjects\Lesson4t\Lesson4t\obj\Debug\net8.0\ref\Lesson4t.dll
